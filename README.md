@@ -1,2 +1,3 @@
 # Fundamentos-C-Sharp-Calculator
- Uma cauculadora, podendo realizar calculos simples, feita no curso de fundamentos do Balta.io no modulo de Mão na Massa
+ Um Miniprojeto feito no curso de fundamentos do Balta.io, no módulo Mão na Massa:
+ Uma calculadora, capaz de realizar calculos simples, com objetivo de compreender na pratica os conceitos como: operadores condicionais, métodos, operações aritmeticas e tipos primitivos, atribuições e entrada e saída de dados.
