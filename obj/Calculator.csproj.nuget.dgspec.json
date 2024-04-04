@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Fundamentos-C-Sharp-Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Fundamentos-C-Sharp-Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Fundamentos-C-Sharp-Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Dev\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Fundamentos-C-Sharp-Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\MeusProjetos\\Fundamentos-C-Sharp-Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
